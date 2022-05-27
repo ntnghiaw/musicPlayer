@@ -42,62 +42,62 @@ const app = {
         {
             name: 'Nevada',
             singer: 'Vicetone',
-            path: '/assets/music/song1.mp3',
-            image: '/assets/img/image1.jpg'
+            path: './assets/music/song1.mp3',
+            image: './assets/img/image1.jpg'
         },
         {
             name: 'Summertime',
             singer: 'K-391',
-            path: '/assets/music/song2.mp3',
-            image: '/assets/img/image2.jpg'
+            path: './assets/music/song2.mp3',
+            image: './assets/img/image2.jpg'
         },
         {
             name: 'Monody',
             singer: 'TheFatRa',
-            path: '/assets/music/song3.mp3',
-            image: '/assets/img/image3.jpg'
+            path: './assets/music/song3.mp3',
+            image: './assets/img/image3.jpg'
         },
         {
             name: 'Reality',
             singer: 'Lost Frequencies feat. Janieck Devy',
-            path: '/assets/music/song4.mp3',
-            image: '/assets/img/image4.jpg'
+            path: './assets/music/song4.mp3',
+            image: './assets/img/image4.jpg'
         },
         {
             name: 'Chạy về nơi phía anh',
             singer: 'Khắc Việt',
-            path: '/assets/music/song5.mp3',
-            image: '/assets/img/image5.jpg'
+            path: './assets/music/song5.mp3',
+            image: './assets/img/image5.jpg'
         },
         {
             name: 'Lemon Tree',
             singer: 'DJ DESA REMIX',
-            path: '/assets/music/song6.mp3',
-            image: '/assets/img/image6.jpg'
+            path: './assets/music/song6.mp3',
+            image: './assets/img/image6.jpg'
         },
         {
             name: 'Cưới Thôi',
             singer: 'B Ray x TAP',
-            path: '/assets/music/song7.mp3',
-            image: '/assets/img/image7.jpg'
+            path: './assets/music/song7.mp3',
+            image: './assets/img/image7.jpg'
         },
         {
             name: 'Gieo Quẻ',
             singer: 'Hoàng Thùy Linh ft. Đen Vâu',
-            path: '/assets/music/song8.mp3',
-            image: '/assets/img/image8.jpg'
+            path: './assets/music/song8.mp3',
+            image: './assets/img/image8.jpg'
         },
         {
             name: 'Like My Father',
             singer: 'Jax',
-            path: '/assets/music/song9.mp3',
-            image: '/assets/img/image9.jpg'
+            path: './assets/music/song9.mp3',
+            image: './assets/img/image9.jpg'
         },
         {
             name: 'Buông',
             singer: 'Bùi Anh Tuấn',
-            path: '/assets/music/song10.mp3',
-            image: '/assets/img/image10.jpg'
+            path: './assets/music/song10.mp3',
+            image: './assets/img/image10.jpg'
         }
     ],
     currentIndex: 0,
